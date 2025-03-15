@@ -246,6 +246,6 @@ This repo thrives on community contributions.
 
 
 <!-- Now for watching and trying for repo -->
-
+<!--
 Here’s a **stats section** for your repo `iamAntimPal/Python-Programs` with dynamic badges and visual flair:
-
+-->
