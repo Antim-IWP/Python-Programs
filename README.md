@@ -235,20 +235,24 @@ This repo thrives on community contributions.
 
 ---
 
-**Happy Coding!** 💻  
-*Made with ❤️ for Python learners worldwide.*  
+## **Happy Coding!** 💻  
 
 
 
 <!-- Keep Learing Banner -->
-
 <p align="center">
-<a href="https://github.com/JurojinKun?tab=repositories">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFF00&center=true&vCenter=true&width=500&height=30&lines=%F0%9F%92%BB+Developer+in+the+IT+World+%F0%9F%92%BB;%F0%9F%92%BB+Always+learning+new+Things+%F0%9F%92%BB;%F0%9F%92%BB+Keep+Calm+and+Code+On+%F0%9F%92%BB;%F0%9F%92%BB+Passionate+about+Code+%F0%9F%92%BB" alt="Typing SVG" />
-</a>
+  <a href="https://github.com/iamAntimPal/Python-Programs">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFF00&center=true&vCenter=true&width=500&height=30&lines=%F0%9F%90%8D+Exploring+Python+Programs+%F0%9F%90%8D;%F0%9F%90%8D+Creating+Useful+Scripts+%F0%9F%90%8D;%F0%9F%90%8D+Python+Projects+Galore+%F0%9F%90%8D;%F0%9F%90%8D+Let%27s+Code+Together+%F0%9F%90%8D" alt="Typing SVG" />
+  </a>
 </p>
+
+
+<!-- Happy Coding -->
  
- <p align="center" style="font-size:40;" >Happy Learning ❤️.</p>
+ <p align="center">
+  <strong><span style="font-size: 40px;">Happy Learning ❤️</span></strong>
+</p>
+
  
 
 
