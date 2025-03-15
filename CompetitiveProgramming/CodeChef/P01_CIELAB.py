@@ -1,3 +1,4 @@
+# Author: Antim Pal
 # In Ciel's restaurant, a waiter is training. Since the waiter isn't good at arithmetic,
 # sometimes he gives guests wrong change. Ciel gives him a simple problem. What is A-B (A minus B) ?
 #
