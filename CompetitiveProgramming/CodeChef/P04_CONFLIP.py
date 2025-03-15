@@ -1,3 +1,4 @@
+# Author: Antim Pal
 # In this game the player will use N coins numbered from 1 to N, and all the coins will be facing in
 # "Same direction" (Either Head or Tail),which will be decided by the player before starting of the game.
 #

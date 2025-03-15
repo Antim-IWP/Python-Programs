@@ -235,17 +235,28 @@ This repo thrives on community contributions.
 
 ---
 
-**Happy Coding!** 💻  
-*Made with ❤️ for Python learners worldwide.*  
+## **Happy Coding!** 💻  
 
 
 
----  
- <p align="center" style="font-size:40;" >Happy Learning ❤️.</p>
+<!-- Keep Learing Banner -->
+<p align="center">
+  <a href="https://github.com/iamAntimPal/Python-Programs">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFF00&center=true&vCenter=true&width=500&height=30&lines=%F0%9F%90%8D+Exploring+Python+Programs+%F0%9F%90%8D;%F0%9F%90%8D+Creating+Useful+Scripts+%F0%9F%90%8D;%F0%9F%90%8D+Python+Projects+Galore+%F0%9F%90%8D;%F0%9F%90%8D+Let%27s+Code+Together+%F0%9F%90%8D" alt="Typing SVG" />
+  </a>
+</p>
+
+
+<!-- Happy Coding -->
+ 
+  <p align="center">
+  <strong>ＨＡＰＰＹ ＬＥＡＲＮＩＮＧ ❤️</strong>
+</p>
+
 
 
 
 <!-- Now for watching and trying for repo -->
-
+<!--
 Here’s a **stats section** for your repo `iamAntimPal/Python-Programs` with dynamic badges and visual flair:
-
+-->
