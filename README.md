@@ -249,11 +249,10 @@ This repo thrives on community contributions.
 
 <!-- Happy Coding -->
  
- <p align="center">
-  <strong><span style="font-size: 40px;">Happy Learning ❤️</span></strong>
+  <p align="center">
+  <strong>ＨＡＰＰＹ ＬＥＡＲＮＩＮＧ ❤️</strong>
 </p>
 
- 
 
 
 
