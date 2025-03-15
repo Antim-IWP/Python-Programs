@@ -1,5 +1,21 @@
-# Python-Programs
-Python-Learning-Journey 🚀 Master Python fundamentals, OOP, data structures, and libraries (NumPy/Pandas/Matplotlib/Seaborn). Build ML models &amp; real-world projects. Beginner-friendly, heavily commented code. Clone, experiment, and contribute! Report issues, submit PRs. ⭐ Star to support! Let’s grow together! 🌱
+# 🚀 Python-Programs  
+
+Welcome to **Python-Learning-Journey**! This repository is designed to help you **master Python fundamentals, Object-Oriented Programming (OOP), data structures, and powerful libraries** like **NumPy, Pandas, Matplotlib, and Seaborn**.  
+
+## 📌 What You'll Learn  
+✅ Python Basics & Syntax  
+✅ Object-Oriented Programming (OOP)  
+✅ Data Structures & Algorithms  
+✅ Data Analysis with NumPy & Pandas  
+✅ Data Visualization with Matplotlib & Seaborn  
+✅ Machine Learning Model Building  
+✅ Real-World Python Projects  
+
+## 🛠 How to Use  
+1. **Clone the repository**  
+   ```sh
+   git clone https://github.com/iamAntimPal/Python-Programs.git
+
 
 ---
 
@@ -245,6 +261,12 @@ This repo thrives on community contributions.
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFF00&center=true&vCenter=true&width=500&height=30&lines=%F0%9F%90%8D+Exploring+Python+Programs+%F0%9F%90%8D;%F0%9F%90%8D+Creating+Useful+Scripts+%F0%9F%90%8D;%F0%9F%90%8D+Python+Projects+Galore+%F0%9F%90%8D;%F0%9F%90%8D+Let%27s+Code+Together+%F0%9F%90%8D" alt="Typing SVG" />
   </a>
 </p>
+
+<!-- Visiter count -->
+<div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+  <p>Visitor Count</p>
+  <img src="https://profile-counter.glitch.me/iamAntimPal/count.svg"alt="Profile Visitor Count" />
+</div>
 
 
 <!-- Happy Coding -->
