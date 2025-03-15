@@ -18,6 +18,7 @@
 [![GitHub Issues](https://img.shields.io/github/issues/iamAntimPal/Python-Programs?color=red)](https://github.com/iamAntimPal/Python-Programs/issues)  
 [![Pull Requests](https://img.shields.io/github/issues-pr/iamAntimPal/Python-Programs?color=blueviolet)](https://github.com/iamAntimPal/Python-Programs/pulls)  
 
+
 ---
 
 ### 🔍 **Languages**  
