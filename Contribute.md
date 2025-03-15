@@ -1,16 +1,37 @@
 # **Repository Name: Python-Programs:** 
+
+
+### 📊 **Repo Stats**  
+
  
 [![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)](https://www.python.org/)  
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)  
 [![Contributors](https://img.shields.io/badge/Contributors-Welcome-yellow)](CONTRIBUTING.md)  
-[![Stars](https://img.shields.io/github/stars/iamAntimPal/Python-Programs?style=social)](https://github.com/iamAntimPal/Python-Programs)  
 [![GitHub Workflow](https://img.shields.io/badge/Git-Commit,Pull_Request-purple?logo=github)](https://github.com/iamAntimPal/Python-Programs)  
+[![GitHub Stars](https://img.shields.io/github/stars/iamAntimPal/Python-Programs?style=social)](https://github.com/iamAntimPal/Python-Programs)  
+[![GitHub Forks](https://img.shields.io/github/forks/iamAntimPal/Python-Programs?style=social)](https://github.com/iamAntimPal/Python-Programs)  
+[![License](https://img.shields.io/github/license/iamAntimPal/Python-Programs?color=green)](https://github.com/iamAntimPal/Python-Programs/blob/main/LICENSE)  
+[![Contributors](https://img.shields.io/github/contributors/iamAntimPal/Python-Programs)](https://github.com/iamAntimPal/Python-Programs/graphs/contributors)  
+[![Last Commit](https://img.shields.io/github/last-commit/iamAntimPal/Python-Programs?color=orange)](https://github.com/iamAntimPal/Python-Programs/commits/main)  
+[![Repo Size](https://img.shields.io/github/repo-size/iamAntimPal/Python-Programs?color=yellow)](https://github.com/iamAntimPal/Python-Programs)  
+
+[![GitHub Issues](https://img.shields.io/github/issues/iamAntimPal/Python-Programs?color=red)](https://github.com/iamAntimPal/Python-Programs/issues)  
+[![Pull Requests](https://img.shields.io/github/issues-pr/iamAntimPal/Python-Programs?color=blueviolet)](https://github.com/iamAntimPal/Python-Programs/pulls)  
+
+---
+
+### 🔍 **Languages**  
+![GitHub Language Count](https://img.shields.io/github/languages/count/iamAntimPal/Python-Programs)  
+![Top Language](https://img.shields.io/github/languages/top/iamAntimPal/Python-Programs?color=blue)  
 
 ---
 
 ## 🚀 **Welcome to Python-Learning-Journey!**
 
 ### Master **Python fundamentals**, **OOP**, **data structures**, and **libraries** (NumPy, Pandas, Matplotlib, Seaborn). Build **ML models** and **Tkinter GUI apps**. Perfect for learners and developers!  
+---
+### 🚀 **Activity Graph**  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamAntimPal&repo=Python-Programs&show_icons=true&theme=radical)  
 
 ---
 
@@ -93,7 +114,14 @@ This repo thrives on community contributions.
 **Happy Coding!** 💻  
 *Made with ❤️ for Python learners worldwide.*  
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamAntimPal&show_icons=true)](https://github.com/iamAntimPal)  
+
 
 ---  
-# Happy Learning ❤️.
+# <p align="center">Happy Learning ❤️.</p>
+
+
+
+<!-- Now for watching and trying for repo -->
+
+Here’s a **stats section** for your repo `iamAntimPal/Python-Programs` with dynamic badges and visual flair:
+
