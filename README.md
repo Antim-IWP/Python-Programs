@@ -240,8 +240,16 @@ This repo thrives on community contributions.
 
 
 
----  
+<!-- Keep Learing Banner -->
+
+<p align="center">
+<a href="https://github.com/JurojinKun?tab=repositories">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFF00&center=true&vCenter=true&width=500&height=30&lines=%F0%9F%92%BB+Developer+in+the+IT+World+%F0%9F%92%BB;%F0%9F%92%BB+Always+learning+new+Things+%F0%9F%92%BB;%F0%9F%92%BB+Keep+Calm+and+Code+On+%F0%9F%92%BB;%F0%9F%92%BB+Passionate+about+Code+%F0%9F%92%BB" alt="Typing SVG" />
+</a>
+</p>
+ 
  <p align="center" style="font-size:40;" >Happy Learning ❤️.</p>
+ 
 
 
 
